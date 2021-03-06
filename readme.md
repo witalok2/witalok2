@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Witalo Matheus</h1>
 <h3 align="center">A passionate fullStack Engineer developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=witalok2&label=Profile%20views&color=0e75b6&style=flat" alt="witalok2" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=witalok2" alt="witalok2" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/icoreongfx" target="blank"><img src="https://img.shields.io/twitter/follow/icoreongfx?logo=twitter&style=for-the-badge" alt="icoreongfx" /></a> </p>
-
-- 👨‍💻 I’m currently learning **Kong - API gateway, gRPC**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/icoreongfx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="icoreongfx" height="30" width="40" /></a>
